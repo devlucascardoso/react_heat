@@ -1,15 +1,3 @@
-yarn dev -> $vite -> http://localhost:3000/
-
-Tecnologia usada =)
-$react
-$typescript
-$vitejs
-
-$axios
-$sass
-$socket.io
-$react-icons
-
 <h1 align="center">NLW Heat - React.js</h1>
 
 <p align="center">
